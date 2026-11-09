@@ -1,4 +1,4 @@
-Pizza - 10
+Pizza - 11
 Burger - 8
 Pasta - 9
 Poison - 99
