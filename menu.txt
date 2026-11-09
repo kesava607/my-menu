@@ -7,3 +7,4 @@ Ice cream - 4
 Cake - 5
 Salad - 6
 Salad - 6
+Soup - 5
