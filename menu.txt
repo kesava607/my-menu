@@ -9,3 +9,5 @@ Salad - 6
 Salad - 6
 Soup - 5
 Cola - 2
+Chips - 2
+Nuts - 3
