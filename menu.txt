@@ -5,3 +5,5 @@ Pasta - 9
 Poison - 99
 Ice cream - 4
 Cake - 5
+Salad - 6
+Salad - 6
