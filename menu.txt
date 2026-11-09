@@ -13,3 +13,4 @@ Chips - 2
 Nuts - 3
 Coffee - 2
 Wings - 7
+Steak - 15
