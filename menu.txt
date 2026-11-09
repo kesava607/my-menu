@@ -2,3 +2,5 @@ Pizza - 10
 Burger - 8
 Pasta - 9
 Poison - 99
+Ice cream - 4
+Cake - 5
