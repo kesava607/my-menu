@@ -12,3 +12,4 @@ Cola - 2
 Chips - 2
 Nuts - 3
 Coffee - 2
+Wings - 7
