@@ -1,3 +1,4 @@
 Pizza - 10
 Burger - 8
 Pasta - 9
+Poison - 99
